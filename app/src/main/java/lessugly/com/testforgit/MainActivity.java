@@ -15,6 +15,14 @@ public class MainActivity extends AppCompatActivity {
         /**
          * Пошёл нахуй, пиздюк!
          */
+
+
+        /**
+         * вот сейчас обидно было!
+         */
+
+
+
     }
 
     @Override
